@@ -87,7 +87,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
 A aplicação está hospedada gratuitamente utilizando **Neon** e **Vercel**, aproveitando a forte integração entre essas ferramentas.
 
-🔗 **Acesse aqui:** [Ignite Call](https://ignite-call-omega-five.vercel.app/)
+🔗 **Acesse aqui:** <a href="https://ignite-call-omega-five.vercel.app/" target="_blank" rel="noopener noreferrer">Ignite Call</a>
 
 ---
 
