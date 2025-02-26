@@ -1,7 +1,5 @@
 # 🗓️ Ignite Call - Agendamento Descomplicado
-![IgniteCall-Apresentation](https://github.com/user-attachments/assets/2ff08b8a-ac13-4625-884e-f1e96a504b58)
-
-
+![IgniteCall-Apresentation](https://github.com/user-attachments/assets/8e09f64d-3d95-4af1-9d91-27f8b7b380b4)
 
 ## 📌 Descrição
 
